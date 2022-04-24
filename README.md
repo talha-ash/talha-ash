@@ -42,4 +42,4 @@ A Software Engineer (Mid-level React Front-end and Back-end) with 3.0 years of p
 
 <h2>:mailbox: Reach me out!</h2>
 
-![Linkedin Badge](https://www.linkedin.com/in/talha-ashraf-63345a18a/) ![Mail Badge](mailto:ta.xit@yandex.com)
+<a href="https://www.linkedin.com/in/talha-ashraf-63345a18a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120px" height="32px" alt="hi"></a>
