@@ -26,7 +26,7 @@ A Software Engineer (Mid-level React Front-end and Back-end) with 4.5 years of p
 
 <h3>:point_right:  Front-end Libraries</h3>
 
-!Redux !React !React Router !React Native !GraphQL !Apolo !Next js
+!Redux !React !React Router !React Native !GraphQL !React Query !Next js !Zustand !Jotai
 
 <h3>:point_right:  Back-end</h3>
 
