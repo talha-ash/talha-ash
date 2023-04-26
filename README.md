@@ -3,7 +3,7 @@
 A Software Engineer (Mid-level React Front-end and Back-end) with 3.0 years of professional experience in JavaScript, React and front-end development. My main expertise are in JavaScript, Typescript  React Native and ReactJS. I have successfully developed and delivered many  ReactJS and React Native projects. I have 3 year of experience in ReactJS and I am fully in sync with the lately evolved ReactJS development. I have hands-on experience with back-end technologies like Elixir Phoenix Graphql. My goal is to work with my team to make the app development as fast, understandable and elegant as possible and develop stable, scalable and maintainable solution.
 
 - 🌱 I’m currently learning advance ReactJS ecosystem and GraphQL.
-- :goal_net:	2022 Goals: Explore and advance Frontend ecosystem(Remix, Typescript, Apollo, Relay, D3js) | Create more GitHub repos | Start contributing to open source projects.
+- :goal_net:	2023 Goals: Explore and advance Frontend ecosystem(Next js, Typescript, React Query, Graphql, D3js) | Create more GitHub repos | Start contributing to open source projects.
 - 🔭 I’m currently working at @TkXel
 - :computer: Most used line of code `const AnyComponent = () => {return}`
 - 📫 How to reach me: ta.xit@yandex.com.
@@ -42,4 +42,3 @@ A Software Engineer (Mid-level React Front-end and Back-end) with 3.0 years of p
 
 <h2>:mailbox: Reach me out!</h2>
 
-<a href="https://www.linkedin.com/in/talha-ashraf-63345a18a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120px" height="32px" alt="hi"></a>
